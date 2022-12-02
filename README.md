@@ -2,7 +2,7 @@
 ## By Joshua Ati
 
 ## Goals
-The main aim of this project was to scrape tweets relating to black panther's sequel, wakanda forever. 33,000 tweets were gotten between 16th and 24th of November 2022. Thw tweets were then clen=aned, Sentimental Analysis was performed using Python's Natural Language Toolkit(NLTK) library. 
+The main aim of this project was to scrape tweets relating to black panther's sequel, wakanda forever. 33,000 tweets were gotten between 16th and 24th of November 2022. The tweets were then cleaned, Sentimental Analysis was performed using Python's Natural Language Toolkit(NLTK) library. 
 
 
 
