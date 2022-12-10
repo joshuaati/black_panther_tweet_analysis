@@ -19,4 +19,4 @@ The main aim of this project was to scrape tweets relating to black panther's se
 - List of language names as their ISO 639-1 codes gotten from: https://datahub.io/core/language-codes#readme
 - Convert from pdf to image: https://tools.pdf24.org
 - Icons were gotten from: https://www.flaticon.com/
-- 
+- Black Panther picture gotten from: https://www.peakpx.com/en/hd-wallpaper-desktop-vkxhe
